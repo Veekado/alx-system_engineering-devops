@@ -1,3 +1,2 @@
-#!/bin/bash
+#!/bin/bas7h
 printf "%s\n"{a...z}{a...} | grep -v "oo" | wc -l
-
